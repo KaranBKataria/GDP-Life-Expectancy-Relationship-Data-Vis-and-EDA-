@@ -19,7 +19,7 @@ The data was originally mined from the World Health Organisation (WHO) & the Wor
 
 Upon performing EDA on the dataset in Python, I can conclude that within the 6 sampled countries, there is an extremely strong positive linear relationship between Life Expectancy and GDP. This conclusion is not only reinforced by the scatterplot visuals produced in Matplotlib but by calculating the Pearson Correlation Coefficient (PCC) for each country. 
 
-The PCC (r) measures the strength of a linear relationship between two quantitative features of a dataset, with values close to 1 indicating an extremely strong positive linear relationship. The PCC for each country was > 0.90, highlighting an almost perfect positive linear correlation between life expectancy and GDP. 
+The PCC (r) measures the strength of a linear relationship between two quantitative features of a dataset, with values close to 1 indicating an extremely strong positive linear relationship. The PCC for each country was > 0.900, highlighting an almost perfect positive linear correlation between life expectancy and GDP. 
 
 
 -- Issues & Improvements -- 
