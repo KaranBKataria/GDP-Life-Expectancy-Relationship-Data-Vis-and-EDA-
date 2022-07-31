@@ -24,4 +24,4 @@ The PCC (r) measures the strength of a linear relationship between two quantitat
 
 -- Issues & Improvements -- 
 
-Although the data and logical thinking would suggest a strong positive linear relationship between Life Expectancy & GDP, we have only taken data from 6 countries. In order to reinforce our conclusion, we must increase our sample size to determine whether this relationship still holds for additional entities we sample. 
+Although the data and logical thinking would suggest a strong positive linear relationship between Life Expectancy & GDP, we have only taken data from 6 countries. In order to reinforce our conclusion, we must increase our sample size to determine whether this relationship still holds for all additional entities we sample. 
