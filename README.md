@@ -5,6 +5,7 @@ In this simple project, my goal was to answer whether or not there is a relation
 In the dataset, I was provided data containing the Life Expectancy (at birth in years) and GDP (in trillions USD) for 6 countries between 2000 and 2015.
 
 The 6 countries included in the sample are:
+    
     1) Chile
     2) China
     3) Germany
