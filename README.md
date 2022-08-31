@@ -1,6 +1,6 @@
 # GDP-Life-Expectancy-Relationship
 
-In this simple project, my goal was to answer whether or not there is a relationship between life expectancy (in years) and GDP. 
+In this simple project, my goal was to answer whether or not there is a relationship between life expectancy (in years) and GDP. To investigate this, I produced Data Visualisations using Matplotlib and Seaborn to explore possible relationships and to conduct EDA.
 
 In the dataset, I was provided data containing the Life Expectancy (at birth in years) and GDP (in trillions USD) for 6 countries between 2000 and 2015.
 
